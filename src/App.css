@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.Title{
+  font-size: 40px;
+  color: cadetblue;
+  margin-top: 20px;
+  margin-bottom: 80px
+}
+
+
+.Subtitle{
+  font-size: 30px;
+  color: dimgray;
+  margin-bottom: 15px
+}
+
+
+
+.Username{
+  font-size: 18px;
+  color: dimgray;
+  margin-bottom: 15px
+}
+
+.UsernameInput{
+  width: 250px;
+  height: 15px;
+  margin-bottom: 25px
+}
+
+
+.Password{
+  font-size: 18px;
+  color: dimgray;
+  margin-bottom: 15px
+}
+
+.PasswordInput{
+  width: 250px;
+  height: 15px;
+  margin-bottom: 50px
+}
+
+
+.SubmitButton{
+  width: 150px;
+  height: 35px;
+  font-size: 15px;
+  color: darkslategray;
+}
