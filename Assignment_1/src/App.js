@@ -107,7 +107,7 @@ class App extends React.Component {
   renderLoginSuccessful() {
     return (
       <>
-        <div className="Title">Login Successful!!</div>
+        <div className="Title">Login Successfully</div>
       </>
     );
   }
@@ -117,7 +117,7 @@ class App extends React.Component {
   renderLoginFailed() {
     return (
       <>
-        <div className="Title">Login Failed!!</div>
+        <div className="Title">Login failed due to incorrect username and password</div>
       </>
     );
   }
