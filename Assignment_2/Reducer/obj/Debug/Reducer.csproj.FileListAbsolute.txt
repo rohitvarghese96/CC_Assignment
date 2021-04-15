@@ -1,0 +1,6 @@
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\bin\Debug\Reducer.exe.config
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\bin\Debug\Reducer.exe
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\bin\Debug\Reducer.pdb
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\obj\Debug\Reducer.csproj.CoreCompileInputs.cache
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\obj\Debug\Reducer.exe
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\Reducer\obj\Debug\Reducer.pdb

@@ -1,0 +1,7 @@
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\bin\Debug\MapReduceProject.exe.config
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\bin\Debug\MapReduceProject.exe
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\bin\Debug\MapReduceProject.pdb
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\obj\Debug\MapReduceProject.csprojAssemblyReference.cache
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\obj\Debug\MapReduceProject.csproj.CoreCompileInputs.cache
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\obj\Debug\MapReduceProject.exe
+C:\Github_Repo\CC_Assignment_Git\Assignment_2\MapReduceProject\obj\Debug\MapReduceProject.pdb
