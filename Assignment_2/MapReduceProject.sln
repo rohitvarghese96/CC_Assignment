@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper", ".\Mapper\Mapper.csproj", "{FBA9F2D7-C88D-46C0-906B-24A8DD91D94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reducer", ".\Reducer\Reducer.csproj", "{87CA9E49-EDF8-4696-8ED3-7B29BF83CC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA9F2D7-C88D-46C0-906B-24A8DD91D94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA9F2D7-C88D-46C0-906B-24A8DD91D94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA9F2D7-C88D-46C0-906B-24A8DD91D94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA9F2D7-C88D-46C0-906B-24A8DD91D94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CA9E49-EDF8-4696-8ED3-7B29BF83CC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CA9E49-EDF8-4696-8ED3-7B29BF83CC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CA9E49-EDF8-4696-8ED3-7B29BF83CC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CA9E49-EDF8-4696-8ED3-7B29BF83CC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8766925-B08E-4BD7-9571-0CD32F4ADD35}
+	EndGlobalSection
+EndGlobal
